@@ -1,0 +1,12 @@
+<SOFTPKG NAME="Tk-XML-WizardMaker" VERSION="0,90,0,0">
+	<TITLE>Tk-XML-WizardMaker</TITLE>
+	<ABSTRACT>easy way to build the Software Assistants and</ABSTRACT>
+	<AUTHOR>Viktor Zimmermann &lt;ZiMTraining@gmx.net&gt;</AUTHOR>
+	<IMPLEMENTATION>
+		<DEPENDENCY NAME="Tk" VERSION="8,0,0,0" />
+		<DEPENDENCY NAME="XML-Simple" VERSION="1,0,0,0" />
+		<OS NAME="linux" />
+		<ARCHITECTURE NAME="i586-linux-thread-multi" />
+		<CODEBASE HREF="Tk-XML-WizardMaker.tar.gz" />
+	</IMPLEMENTATION>
+</SOFTPKG>
